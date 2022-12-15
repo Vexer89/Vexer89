@@ -5,6 +5,7 @@ Będę się zajmował projektem dotyczącym strony internetowej
 [Moja Strona](https://vexer89.github.io/)
 
 [Repozytorium/Papers with Code](https://github.com/Vexer89/models)
+
 [Papers with Code](https://github.com/tensorflow/models)
 
 <!--
