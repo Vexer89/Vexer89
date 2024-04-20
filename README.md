@@ -2,6 +2,9 @@
 
 I'm second-year student at AGH University of Science and Technology!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexer89)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Będę się zajmował projektem dotyczącym strony internetowej
 
 [Moja Strona](https://vexer89.github.io/)
