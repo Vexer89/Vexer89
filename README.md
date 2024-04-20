@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm second-year student at AGH University of Science and Technology!
+
 Będę się zajmował projektem dotyczącym strony internetowej
 
 [Moja Strona](https://vexer89.github.io/)
