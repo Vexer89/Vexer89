@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Krzysztof!
 
 I'm second-year student at AGH University of Science and Technology!
 
