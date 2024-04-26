@@ -2,6 +2,7 @@
 - 💻Computer Science and Intelligent Systems student at the Faculty of Electrical Engineering, Automatics, Computer Science, and Biomedical Engineering at the AGH University of Science and Technology.
 - 🌱I'm currently learning.
 -  ⌚️In my free time I go gym, read IT and self-development books.
+-  👾Member of Science Club - AGH Blockchain.
 
 
 # 💻 Tech Stack:
