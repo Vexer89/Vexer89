@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vexer89&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vexer89&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexer89&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexer89&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact&size_weight=1&count_weight=0)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vexer89&theme=radical&no-frame=false&no-bg=false&margin-w=4)
