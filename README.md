@@ -2,12 +2,11 @@
   Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Krzysztof Ferda
 </h1>
 
-<p align="center">
-🎓 Computer Science and Intelligent Systems student at AGH University of Science and Technology  
-💻 Passionate about development, systems, and learning new technologies  
-📚 I enjoy reading IT and self-development books  
-🏋️‍♂️ I go to the gym in my free time  
-</p>
+- 🎓 Computer Science and Intelligent Systems student at AGH University of Science and Technology
+- 💻 Passionate about development, systems, and learning new technologies
+- 🏋️‍♂️ I go to the gym in my free time
+- ⚽ I am passionate about football
+- ⛵ I enjoy sailing
 
 ---
 
