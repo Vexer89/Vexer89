@@ -100,4 +100,11 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Vexer89/CSharp-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vexer89&repo=CSharp-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 </table>
