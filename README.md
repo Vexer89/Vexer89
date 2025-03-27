@@ -21,10 +21,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-6579b8?style=flat-square&logo=linkedin&logoColor=white&width=200&height=60" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Vexer89">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white&width=200&height=60" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/krzysztof.ferda.5">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&width=200&height=60" alt="Facebook" />
   </a>
